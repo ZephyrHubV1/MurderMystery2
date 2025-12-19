@@ -92,4 +92,4 @@ for i = 1, 10 do
     MainFrame.BackgroundTransparency = 1 - (i / 10)
     task.wait(0.02)
 end
-loadstring(game:HttpGet("https://pastefy.app/P8PsjH6P/raw"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/pzXArtaTK8/0", true))()
