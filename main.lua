@@ -1,5 +1,5 @@
 local function s1()
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/ERrbSDN6zl/0", true))()
+loadstring(game:HttpGet("https://pastefy.app/wYe7tjaR/raw"))()
 end
 local function s2()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/renardofficiel/game/refs/heads/main/MurderMystery2/main.lua", true))()
